@@ -9,7 +9,7 @@ body {
 
 #button {
     padding: 12px 32px;
-    background-color: #fcd1e9;
+    background-color: #e2eb98;
     border: #ffa0d4;
     border-radius: 8px;
     font-size: 1.2em;
@@ -17,7 +17,7 @@ body {
 }
 
 #button:hover {
-    background-color: #ffa0d4;
+    background-color: #adbf97;
     transition: 0.2s ease;
     cursor: pointer;
 }
@@ -26,13 +26,13 @@ body {
     background-color: #ffffff;
     width: 820px;
     min-height: 820px;
-    border: 1px solid #fd6ebd;
+    border: 1px solid #e2eb98;
     display: flex;
     flex-wrap: wrap;
     margin: auto;
 }
 
 .box {
-    transition: background-color 0.5s linear;
+    transition: background-color 1s ease-out;
     border: 1px solid rgb(224, 224, 224);
 }
